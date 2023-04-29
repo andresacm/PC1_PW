@@ -1,0 +1,56 @@
+.container{
+    max-width: 1000px;
+    margin: auto;
+
+    border-color: rgb(131, 123, 123);
+
+}
+
+header{
+    background-color: gray;
+    width: 25%;
+
+    align-content: center;
+    margin-left: 40%;
+
+
+}
+
+main{
+    background-color: white;
+    width: 25%;
+
+    align-content: center;
+    margin-left: 40%;
+    text-align: center;
+    
+}
+
+.parrafo{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer{
+    background-color: rgb(201, 201, 201);
+    width: 25%;
+    height: 60px;
+    align-content: center;
+    margin-left: 40%;
+    text-align: center;
+    padding-top: 5px;
+}
+
+h4{
+    text-align: center;
+    margin-top: 0;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.email{
+    font-family: Arial, Helvetica, sans-serif;
+}
